@@ -1,0 +1,42 @@
+body {
+    background: linear-gradient(120deg,#1e3c72,#2a5298);
+    font-family: Arial;
+    color:white;
+}
+.login-box {
+    background:white;
+    color:black;
+    width:360px;
+    margin:120px auto;
+    padding:25px;
+    border-radius:10px;
+    box-shadow:0 10px 30px rgba(0,0,0,.4);
+}
+input {
+    width:95%;
+    padding:10px;
+    margin:10px 0;
+}
+button {
+    background:#2a5298;
+    color:white;
+    border:none;
+    padding:10px 20px;
+}
+.nav {
+    background:black;
+    padding:12px;
+}
+.nav a {
+    color:white;
+    margin-right:20px;
+}
+.browser {
+    background:white;
+    color:black;
+    padding:25px;
+    border-radius:10px;
+}
+.error {
+    color:red;
+}
