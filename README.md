@@ -2,3 +2,4 @@
 Render redeploy trigger
 trigger redeploy
 
+move html to templates and css to static
